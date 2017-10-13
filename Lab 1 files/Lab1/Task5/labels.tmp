@@ -1,0 +1,29 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>C:\Users\jc222kq\Documents\Lab1\Task5</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <load><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>54</LINE></load>
+  <first><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>63</LINE></first>
+  <ring><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>69</LINE></ring>
+  <reset><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>98</LINE></reset>
+  <DELAY><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>83</LINE></DELAY>
+  <L1><FILE>C:\Users\jc222kq\Documents\Lab1\Task5\Lab_Task5.asm</FILE><LINE>87</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
