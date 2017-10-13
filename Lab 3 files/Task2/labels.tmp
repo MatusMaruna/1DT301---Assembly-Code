@@ -1,0 +1,37 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>C:\Users\mm223fj\Documents\Lab3\Task2</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>44</LINE></start>
+  <switch><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>37</LINE></switch>
+  <johnson><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>104</LINE></johnson>
+  <ring_counter><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>51</LINE></ring_counter>
+  <load><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>73</LINE></load>
+  <first><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>82</LINE></first>
+  <ring><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>88</LINE></ring>
+  <reset><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>97</LINE></reset>
+  <DELAY><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>152</LINE></DELAY>
+  <johnson_counter><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>121</LINE></johnson_counter>
+  <backward><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>140</LINE></backward>
+  <back_loop><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>131</LINE></back_loop>
+  <forward><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>145</LINE></forward>
+  <L1><FILE>C:\Users\mm223fj\Documents\Lab3\Task2\Lab3Task2.asm</FILE><LINE>164</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
