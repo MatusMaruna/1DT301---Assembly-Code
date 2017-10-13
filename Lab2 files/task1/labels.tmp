@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega2560</DEVICE>
+ <WORKING_DIR>C:\Users\mm223fj\Desktop\Lab2\task1</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\AVR Tools\AvrAssembler2\Appnotes\m2560def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <ring_counter><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>32</LINE></ring_counter>
+  <DELAY><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>136</LINE></DELAY>
+  <load><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>52</LINE></load>
+  <first><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>61</LINE></first>
+  <ring><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>67</LINE></ring>
+  <johnson><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>86</LINE></johnson>
+  <reset><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>79</LINE></reset>
+  <johnson_counter><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>98</LINE></johnson_counter>
+  <backward><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>124</LINE></backward>
+  <back_loop><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>111</LINE></back_loop>
+  <forward><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>129</LINE></forward>
+  <L1><FILE>C:\Users\mm223fj\Desktop\Lab2\task1\LAb2Task1.asm</FILE><LINE>148</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
